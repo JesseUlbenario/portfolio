@@ -1,8 +1,8 @@
 /* Default Light Theme */
 body {
 	font-family: Arial, sans-serif;
-	background-color: #dae1ef;
-	color: #293a60;
+	background-color: #DAE1EF;
+	color: #293A60;
 	margin: 0;
 	padding: 20px;
 }
@@ -26,5 +26,5 @@ button {
 /* Dark Theme */
 body.dark {
 	background-color: #060030;
-	color: #f7e5eb;
+	color: #F7E5Eb;
 }
